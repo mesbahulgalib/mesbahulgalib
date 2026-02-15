@@ -28,7 +28,7 @@
 
 ## 🌐 Connect With Me
 - 📧 Email: mesbahulgalib2@gmail.com
-- 💬 Facebook: [(add link)](https://www.facebook.com/?ref=homescreenpwa)
+- 💬 Facebook: [([add link)](https://www.facebook.com/?ref=homescreenpwa)]
 
 ---
 
