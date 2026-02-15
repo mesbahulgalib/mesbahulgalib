@@ -19,16 +19,18 @@
 
 ---
 
-## 📊 GitHub Stats
-![Mesbahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesbahulgalib&show_icons=true&theme=tokyonight)
+## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesbahulgalib&layout=compact&theme=tokyonight)
+![Mesbahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mesbahulgalib&show_icons=true&theme=tokyonight)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesbahulgalib&layout=compact&theme=tokyonight)ct&theme=tokyonight)
 
 ---
 
 ## 🌐 Connect With Me
 - 📧 Email: mesbahulgalib2@gmail.com
-- 💬 Facebook: [([add link)](https://www.facebook.com/?ref=homescreenpwa)]
 
 ---
 
