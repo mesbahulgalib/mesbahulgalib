@@ -1,6 +1,6 @@
 # Hi 👋 I'm Mesbahul Galib
 
-### 💻 Frontend Developer | UI Designer | Learning React
+### 💻 Frontend Developer | Learning React
 
 ---
 
@@ -27,9 +27,8 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: yourmail@gmail.com
-- 🌍 Portfolio: (add later)
-- 💬 Facebook: (add link)
+- 📧 Email: mesbahulgalib2@gmail.com
+- 💬 Facebook: [(add link)](https://www.facebook.com/?ref=homescreenpwa)
 
 ---
 
