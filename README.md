@@ -1,16 +1,36 @@
-# Hi there 👋
+# Hi 👋 I'm Mesbahul Galib
 
+### 💻 Frontend Developer | UI Designer | Learning React
 
-**mesbahulgalib/mesbahulgalib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌱 Currently learning **JavaScript & React**
+- 💡 Passionate about building clean & responsive websites
+- 🎯 Goal: Become a Full Stack Developer
+- 📍 Based in Bangladesh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+## 🛠 Skills
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+![Mesbahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesbahulgalib&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mesbahulgalib&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+- 📧 Email: yourmail@gmail.com
+- 🌍 Portfolio: (add later)
+- 💬 Facebook: (add link)
+
+---
+
+⭐ From [mesbahulgalib](https://github.com/mesbahulgalib)
