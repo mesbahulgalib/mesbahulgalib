@@ -1,0 +1,71 @@
+@media (max-width: 768px){
+
+    /* Remove big left paddings */
+    .project_wrapper,
+    .Achievements_wrapper{
+        padding-left: 0 !important;
+        text-align: center;
+    }
+
+    /* NAV */
+    .nav_wrapper{
+        flex-direction: column;
+        align-items: center;
+        gap: 15px;
+    }
+
+    .nav_menu{
+        flex-direction: column;
+        gap: 10px;
+        padding-left: 0;
+    }
+
+    /* HERO IMAGE */
+    .main_image img{
+        width: 100%;
+        height: auto;
+    }
+
+    /* ALL FLEX WRAPPERS STACK */
+    .wrapper{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 30px;
+    }
+
+    /* Vision + Hero 2 */
+    .vision_section .wrapper,
+    .hero_section2 .wrapper{
+        flex-direction: column;
+    }
+
+    .image2 img,
+    .image img,
+    .\32 nd_img img{
+        width: 100%;
+        height: auto;
+    }
+
+    /* Newsletter */
+    .input_group{
+        width: 100%;
+    }
+
+    /* Footer */
+    .footer_wrapper{
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 30px;
+    }
+
+    .footer_col{
+        width: 100%;
+    }
+
+    .social_list{
+        justify-content: center;
+    }
+
+}
